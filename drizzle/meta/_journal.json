@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788549010676,
+      "tag": "0000_crazy_galactus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788550197353,
+      "tag": "0001_redundant_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788550792981,
+      "tag": "0002_striped_rockslide",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788551835074,
+      "tag": "0003_oval_risque",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788552342441,
+      "tag": "0004_sleepy_black_panther",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1788553077936,
+      "tag": "0005_daffy_mephistopheles",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1788555496763,
+      "tag": "0006_flippant_the_order",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1788557219176,
+      "tag": "0007_nifty_queen_noir",
+      "breakpoints": true
+    }
+  ]
+}
